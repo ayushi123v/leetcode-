@@ -1,0 +1,25 @@
+class Solution {
+    public int maxVowels(String s, int k) {
+        // vowels
+        Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u'));
+        
+        int n = s.length();
+        int currentCount = 0; // current
+        int maxCount = 0;     // our record
+        
+        // Step 1: Count first k characters
+        for (int i = 0; i < k; i++) {
+            if (vowels.contains(s.charAt(i))) currentCount++;
+        }
+        maxCount = currentCount; // setting the bar
+        
+        // Step 2: Slide
+        for (int i = k; i < n; i++) {
+            if (vowels.contains(s.charAt(i))) currentCount++;      // new one
+            if (vowels.contains(s.charAt(i - k))) currentCount--;  // remove
+            maxCount = Math.max(maxCount, currentCount);           // keep the high score
+        }
+        
+        return maxCount;
+    }
+}
