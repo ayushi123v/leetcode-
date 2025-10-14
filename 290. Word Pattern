@@ -1,0 +1,36 @@
+import java.util.*;
+
+class Solution {
+    public boolean wordPattern(String pattern, String s) {
+        String[] words = s.split(" ");
+        if (pattern.length() != words.length) return false;
+
+        HashMap<Character, String> map = new HashMap<>();
+        HashSet<String> usedWords = new HashSet<>();
+
+        for (int i = 0; i < pattern.length(); i++) {
+            char ch = pattern.charAt(i);
+            String word = words[i];
+
+            // If pattern char seen before
+            if (map.containsKey(ch)) {
+                // check if mapped word is same as before
+                if (!map.get(ch).equals(word)) {
+                    return false;
+                }
+            } else {
+                // if this word is already mapped to another char — invalid
+                if (usedWords.contains(word)) {
+                    return false;
+                }
+
+                // store first-time mapping
+                map.put(ch, word);
+                usedWords.add(word);
+            }
+        }
+
+        // if all pattern checked successfully
+        return true;
+    }
+}
