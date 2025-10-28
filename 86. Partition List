@@ -1,0 +1,31 @@
+class Solution {
+    public ListNode partition(ListNode head, int x) {
+        if (head == null || head.next == null )return head;
+        ListNode agye = new ListNode(0);
+        ListNode piche  = new ListNode(0);
+        ListNode  tail = agye;
+        ListNode lasttail= piche;
+        ListNode thead = head;
+        while(thead!= null){
+            if(thead.val<x){
+                tail.next=thead;
+                tail=tail.next;
+            
+
+
+            }
+            else{
+                lasttail.next= thead;
+                lasttail= lasttail.next;
+            }
+            thead=thead.next;
+        }
+        lasttail.next=null;
+        tail.next=piche.next;
+        return agye.next;
+        
+        
+        
+        
+    }
+}
