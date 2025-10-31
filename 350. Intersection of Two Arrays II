@@ -1,0 +1,30 @@
+class Solution {
+    public int[] intersect(int[] nums1, int[] nums2) {
+        // max intersection size can't be more than min length
+        int[] store = new int[Math.min(nums1.length, nums2.length)];
+        int k = 0; 
+        
+        boolean[] visited = new boolean[nums2.length]; // to avoid duplicate use
+        
+        for (int i = 0; i < nums1.length; i++) {
+            for (int j = 0; j < nums2.length; j++) {
+                
+                if (!visited[j] && nums1[i] == nums2[j]) {
+                    store[k] = nums1[i];
+                    k++;
+                    visited[j] = true; // mark matched
+                    break;
+                }
+            }
+        }
+
+        // make final array of exact size
+        int[] result = new int[k];
+        for (int i = 0; i < k; i++) {
+            result[i] = store[i];
+        }
+        
+        return result;
+    }
+}
+
