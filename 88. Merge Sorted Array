@@ -1,0 +1,27 @@
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        //use temp array to store sorted elements.
+        int[] temp=new int[nums1.length];
+        int i=0;
+        int j=0,k=0;
+        while(j<=m-1 && k<=n-1)
+        {
+           if(nums1[j]>nums2[k])
+           {
+            temp[i++]=nums2[k++];
+           }
+           else{
+            temp[i++]=nums1[j++];
+           }
+        }
+        while(j<=m-1){
+            temp[i++]=nums1[j++];
+        }
+        while(k<=n-1)
+        {
+            temp[i++]=nums2[k++];
+        }
+        //copy sorted elements back to array,nums1.
+        System.arraycopy(temp,0,nums1,0,temp.length);
+    }
+}
