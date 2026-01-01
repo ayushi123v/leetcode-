@@ -1,0 +1,83 @@
+class Solution {
+    public class Info implements Comparable<Info> {
+        String str;
+        int count;
+        Info(String str, int count) {
+            this.str = str;
+            this.count = count;
+        }
+        @Override
+        public int compareTo(Info p) {
+            if (this.count == p.count) {
+                return this.str.compareTo(p.str);
+            }
+            return this.count - p.count;
+        }
+    }
+    public class Pair implements Comparable<Pair> {
+        int src;
+        int wt;
+        Pair(int src, int wt) {
+            this.src = src;
+            this.wt = wt;
+        }
+        @Override
+        public int compareTo(Pair p) {
+            return this.wt - p.wt;
+        }
+    }
+    public int [] getShortestPath(ArrayList<Integer> graph [], int id) {
+        boolean vis [] = new boolean[graph.length];
+        int dist [] = new int[graph.length];
+        Arrays.fill(dist, Integer.MAX_VALUE);
+        dist[id] = 0;
+        PriorityQueue<Pair> pq = new PriorityQueue<>();
+        pq.add(new Pair(id, 0));
+        while (!pq.isEmpty()) {
+            Pair curr = pq.poll();
+            if (!vis[curr.src]) {
+                vis[curr.src] = true;
+                for (int i=0; i<graph[curr.src].size(); i++) {
+                    int dest = graph[curr.src].get(i);
+                    if (!vis[dest]) {
+                        if (dist[dest] > dist[curr.src] + 1) {
+                            dist[dest] = dist[curr.src] + 1;
+                            pq.add(new Pair(dest, dist[dest]));
+                        }
+                    }
+                }
+            }
+        }
+        return dist;
+    }
+    public List<String> watchedVideosByFriends(List<List<String>> watchedVideos, int[][] friends, int id, int level) {
+        ArrayList<Integer> graph [] = new ArrayList[friends.length];
+        for (int i=0; i<friends.length; i++) {
+            graph[i] = new ArrayList<>();
+        }
+        for (int i=0; i<friends.length; i++) {
+            for (int j=0; j<friends[i].length; j++) {
+                graph[i].add(friends[i][j]);
+            }
+        }
+        int dist [] = getShortestPath(graph, id);
+        HashMap<String, Integer> map = new HashMap<>();
+        for (int i=0; i<dist.length; i++) {
+            if (dist[i] == level) {
+                for (int j=0; j<watchedVideos.get(i).size(); j++) {
+                    map.put(watchedVideos.get(i).get(j), map.getOrDefault(watchedVideos.get(i).get(j), 0) + 1);
+                }
+            }
+        }
+        PriorityQueue<Info> pq = new PriorityQueue<>();
+        for (String key : map.keySet()) {
+            pq.add(new Info(key, map.get(key)));
+        }
+        List<String> ans = new ArrayList<>();
+        while (!pq.isEmpty()) {
+            Info curr = pq.poll();
+            ans.add(curr.str);
+        }
+        return ans;
+    }
+}
