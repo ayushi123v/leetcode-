@@ -1,0 +1,23 @@
+lass Solution {
+    public List<List<Integer>> combinationSum(int[] arr, int target) {
+        List<List<Integer>> ans= new ArrayList<>();
+        List<Integer> combin = new ArrayList<>();
+        cs(arr, 0 , combin , ans ,target);
+        return ans;
+    }
+    private void cs (int[] arr, int i , List<Integer> combin,List<List<Integer>> ans, int tar){
+         
+         if(i == arr.length || tar <0){
+            return ;
+         }
+
+         if(tar == 0 ){
+            ans.add(new ArrayList<>(combin));
+            return;
+         }
+         combin.add(arr[i]);
+         cs(arr,i,combin,ans,tar-arr[i]);
+         combin.remove(combin.size()-1);
+         cs(arr,i+1,combin, ans, tar);
+    }
+}
