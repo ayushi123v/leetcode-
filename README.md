@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/0020-valid-parentheses) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushi123v/leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Design
 |  |
 | ------- |
