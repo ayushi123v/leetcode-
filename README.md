@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/0020-valid-parentheses) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushi123v/leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Design
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushi123v/leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
