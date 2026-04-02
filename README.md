@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushi123v/leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushi123v/leetcode-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayushi123v/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ayushi123v/leetcode-/tree/master/0509-fibonacci-number) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushi123v/leetcode-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushi123v/leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushi123v/leetcode-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
 |  |
 | ------- |
