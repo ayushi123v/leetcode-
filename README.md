@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushi123v/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
+| [0874-walking-robot-simulation](https://github.com/ayushi123v/leetcode-/tree/master/0874-walking-robot-simulation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushi123v/leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -149,5 +150,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/ayushi123v/leetcode-/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Simulation
+|  |
+| ------- |
+| [0874-walking-robot-simulation](https://github.com/ayushi123v/leetcode-/tree/master/0874-walking-robot-simulation) |
 <!---LeetCode Topics End-->
