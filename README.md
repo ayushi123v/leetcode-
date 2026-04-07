@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushi123v/leetcode-/tree/master/0300-longest-increasing-subsequence) |
