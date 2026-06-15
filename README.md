@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushi123v/leetcode-/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushi123v/leetcode-/tree/master/0001-two-sum) |
 | [0874-walking-robot-simulation](https://github.com/ayushi123v/leetcode-/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayushi123v/leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
