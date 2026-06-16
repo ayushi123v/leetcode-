@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/ayushi123v/leetcode-/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/ayushi123v/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushi123v/leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ayushi123v/leetcode-/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/ayushi123v/leetcode-/tree/master/0912-sort-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushi123v/leetcode-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ayushi123v/leetcode-/tree/master/0217-contains-duplicate) |
 | [0874-walking-robot-simulation](https://github.com/ayushi123v/leetcode-/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayushi123v/leetcode-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ayushi123v/leetcode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
