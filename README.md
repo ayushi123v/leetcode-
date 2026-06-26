@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushi123v/leetcode-/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushi123v/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/ayushi123v/leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ayushi123v/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushi123v/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushi123v/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/ayushi123v/leetcode-/tree/master/0287-find-the-duplicate-number) |
