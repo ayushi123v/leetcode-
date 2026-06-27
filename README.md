@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushi123v/leetcode-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ayushi123v/leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushi123v/leetcode-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushi123v/leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushi123v/leetcode-/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushi123v/leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ayushi123v/leetcode-/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/ayushi123v/leetcode-/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/ayushi123v/leetcode-/tree/master/0287-find-the-duplicate-number) |
