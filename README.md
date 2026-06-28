@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/ayushi123v/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushi123v/leetcode-/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/ayushi123v/leetcode-/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/ayushi123v/leetcode-/tree/master/0509-fibonacci-number) |
 | [1871-jump-game-vii](https://github.com/ayushi123v/leetcode-/tree/master/1871-jump-game-vii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ayushi123v/leetcode-/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ayushi123v/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/ayushi123v/leetcode-/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ayushi123v/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
