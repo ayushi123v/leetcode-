@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ayushi123v/leetcode-/tree/master/0050-powx-n) |
+| [0371-sum-of-two-integers](https://github.com/ayushi123v/leetcode-/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/ayushi123v/leetcode-/tree/master/0509-fibonacci-number) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushi123v/leetcode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayushi123v/leetcode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ayushi123v/leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/ayushi123v/leetcode-/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
 | ------- |
