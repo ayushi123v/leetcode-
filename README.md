@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayushi123v/leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ayushi123v/leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushi123v/leetcode-/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushi123v/leetcode-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/ayushi123v/leetcode-/tree/master/0435-non-overlapping-intervals) |
 | [0874-walking-robot-simulation](https://github.com/ayushi123v/leetcode-/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/ayushi123v/leetcode-/tree/master/0912-sort-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushi123v/leetcode-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0933-number-of-recent-calls](https://github.com/ayushi123v/leetcode-/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushi123v/leetcode-/tree/master/0304-range-sum-query-2d-immutable) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushi123v/leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushi123v/leetcode-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushi123v/leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ayushi123v/leetcode-/tree/master/0304-range-sum-query-2d-immutable) |
 | [1871-jump-game-vii](https://github.com/ayushi123v/leetcode-/tree/master/1871-jump-game-vii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ayushi123v/leetcode-/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Hash Table
