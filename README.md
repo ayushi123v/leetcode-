@@ -260,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ayushi123v/leetcode-/tree/master/0061-rotate-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayushi123v/leetcode-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
