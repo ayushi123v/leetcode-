@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ayushi123v/leetcode-/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/ayushi123v/leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayushi123v/leetcode-/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushi123v/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/ayushi123v/leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayushi123v/leetcode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushi123v/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ayushi123v/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
 |  |
