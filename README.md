@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayushi123v/leetcode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ayushi123v/leetcode-/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ayushi123v/leetcode-/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushi123v/leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ayushi123v/leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/ayushi123v/leetcode-/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ayushi123v/leetcode-/tree/master/0617-merge-two-binary-trees) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushi123v/leetcode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ayushi123v/leetcode-/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/ayushi123v/leetcode-/tree/master/0547-number-of-provinces) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ayushi123v/leetcode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushi123v/leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayushi123v/leetcode-/tree/master/0547-number-of-provinces) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayushi123v/leetcode-/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ayushi123v/leetcode-/tree/master/3532-path-existence-queries-in-a-graph-i) |
