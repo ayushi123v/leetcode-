@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ayushi123v/leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ayushi123v/leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/ayushi123v/leetcode-/tree/master/0344-reverse-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1871-jump-game-vii](https://github.com/ayushi123v/leetcode-/tree/master/1871-jump-game-vii) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/ayushi123v/leetcode-/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushi123v/leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ayushi123v/leetcode-/tree/master/0175-combine-two-tables) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayushi123v/leetcode-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
